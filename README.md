@@ -1,3 +1,3 @@
-# My Ubuntu base image
+# My Ubuntu base images
 
-My Ubuntu base image including a few basic packages and configuration.
+My Ubuntu base images including a few basic packages and configuration.
